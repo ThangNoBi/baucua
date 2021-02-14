@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/baucua/static/css/main.a0cd0966.chunk.css",
+    "main.js": "/baucua/static/js/main.7bc187b2.chunk.js",
+    "main.js.map": "/baucua/static/js/main.7bc187b2.chunk.js.map",
+    "runtime-main.js": "/baucua/static/js/runtime-main.84c60c10.js",
+    "runtime-main.js.map": "/baucua/static/js/runtime-main.84c60c10.js.map",
+    "static/js/2.59306627.chunk.js": "/baucua/static/js/2.59306627.chunk.js",
+    "static/js/2.59306627.chunk.js.map": "/baucua/static/js/2.59306627.chunk.js.map",
+    "static/js/3.4e5f470e.chunk.js": "/baucua/static/js/3.4e5f470e.chunk.js",
+    "static/js/3.4e5f470e.chunk.js.map": "/baucua/static/js/3.4e5f470e.chunk.js.map",
+    "index.html": "/baucua/index.html",
+    "static/css/main.a0cd0966.chunk.css.map": "/baucua/static/css/main.a0cd0966.chunk.css.map",
+    "static/js/2.59306627.chunk.js.LICENSE.txt": "/baucua/static/js/2.59306627.chunk.js.LICENSE.txt",
+    "static/media/BauCua.css": "/baucua/static/media/Pony.99ddd1e5.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84c60c10.js",
+    "static/js/2.59306627.chunk.js",
+    "static/css/main.a0cd0966.chunk.css",
+    "static/js/main.7bc187b2.chunk.js"
+  ]
+}
